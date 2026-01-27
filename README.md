@@ -1,4 +1,4 @@
-=# DevOps Command Reference
+# DevOps Command Reference
 
 ![DevOps](https://img.shields.io/badge/DevOps-Commands-blue)
 ![Linux](https://img.shields.io/badge/Linux-CLI-green)
@@ -11,8 +11,8 @@
 
 | File | Description |
 |------|-------------|
-| `basic_commands.md` | 150+ basic to intermediate commands for daily DevOps tasks |
-| `advanced_commands.md` | 200+ advanced commands covering Docker, Git, Kubernetes, Ansible, Terraform, AWS CLI, and more |
+| [Basic Commands](./basic_commands.md) | 150+ basic to intermediate commands for daily DevOps tasks |
+| [Advanced Commands](./advanced_commands.md) | 200+ advanced commands covering Docker, Git, Kubernetes, Ansible, Terraform, AWS CLI, and more |
 
 ## 🚀 Topics Covered
 
@@ -37,8 +37,8 @@ git clone https://github.com/your-username/devops-command-reference.git
 2. Open the Markdown files:
 
 ```bash
-code basic_commands.md
-code advanced_commands.md
+code ./basic_commands.md
+code ./advanced_commands.md
 ```
 
 3. Copy commands as needed and follow explanations.
@@ -51,8 +51,8 @@ code advanced_commands.md
 
 ## 🔗 Quick Links
 
-- [Basic Commands](basic_commands.md)
-- [Advanced Commands](advanced_commands.md)
+- [Basic Commands](./basic_commands.md#) – jump directly to the basic command list.
+- [Advanced Commands](./advanced_commands.md#) – jump directly to the advanced command list.
 
 ## 📌 License
 
