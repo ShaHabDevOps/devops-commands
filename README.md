@@ -13,6 +13,7 @@
 |------|-------------|
 | [Basic Commands](./basic_commands.md) | 150+ basic to intermediate commands for daily DevOps tasks |
 | [Advanced Commands](./advanced_commands.md) | 200+ advanced commands covering Docker, Git, Kubernetes, Ansible, Terraform, AWS CLI, and more |
+| [Server Audit Commands](./server_audit_commands.md) | Commands used to check server specifications, logs, users, and security audits |
 
 ## 🚀 Topics Covered
 
@@ -31,7 +32,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/devops-command-reference.git
+git clone https://github.com/your-username/devops-commands.git
 ```
 
 2. Open the Markdown files:
@@ -39,6 +40,7 @@ git clone https://github.com/your-username/devops-command-reference.git
 ```bash
 code ./basic_commands.md
 code ./advanced_commands.md
+code ./server_audit_commands.md
 ```
 
 3. Copy commands as needed and follow explanations.
@@ -51,8 +53,9 @@ code ./advanced_commands.md
 
 ## 🔗 Quick Links
 
-- [Basic Commands](./basic_commands.md#) – jump directly to the basic command list.
-- [Advanced Commands](./advanced_commands.md#) – jump directly to the advanced command list.
+- [Basic Commands](./basic_commands.md) – jump directly to the basic command list.
+- [Advanced Commands](./advanced_commands.md) – jump directly to the advanced command list.
+- [Server Audit Commands](./server_audit_commands.md) – jump directly to server audit commands.
 
 ## 📌 License
 
