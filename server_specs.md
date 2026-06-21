@@ -1,3 +1,4 @@
+```
 echo -e "\n================================================================" && \
 echo -e "HOSTNAME     : $(hostname)" && \
 echo -e "USER         : $(whoami)" && \
@@ -11,3 +12,4 @@ echo -e "TYPE         : $(lscpu | awk '/^Architecture:/ {print $2}')" && \
 echo -e "DRIVE PATH   : $(df -h / | awk 'NR==2 {print $1}')" && \
 echo -e "TOTAL DISK   : $(df -h / | awk 'NR==2 {print $2}')" && \
 echo -e "================================================================"
+```
